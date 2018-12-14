@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/eb765596b80856b07a59d074a722ff2d3a7415ad/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/eb765596b80856b07a59d074a722ff2d3a7415ad/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

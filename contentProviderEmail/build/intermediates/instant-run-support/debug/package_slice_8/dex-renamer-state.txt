@@ -1,0 +1,4 @@
+#Fri Sep 28 16:51:00 IST 2018
+base.0=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

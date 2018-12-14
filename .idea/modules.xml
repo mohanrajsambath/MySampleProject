@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoTrimmer/VideoTrimmer.iml" filepath="$PROJECT_DIR$/VideoTrimmer/VideoTrimmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidBuildingMusicPlayer/androidBuildingMusicPlayer.iml" filepath="$PROJECT_DIR$/androidBuildingMusicPlayer/androidBuildingMusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidCameraAPI/androidCameraAPI.iml" filepath="$PROJECT_DIR$/androidCameraAPI/androidCameraAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidSurfaceviewExample/androidSurfaceviewExample.iml" filepath="$PROJECT_DIR$/androidSurfaceviewExample/androidSurfaceviewExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidVideoCaptureExample/androidVideoCaptureExample.iml" filepath="$PROJECT_DIR$/androidVideoCaptureExample/androidVideoCaptureExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationtransition/animationtransition.iml" filepath="$PROJECT_DIR$/animationtransition/animationtransition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastReceiverNewSms/broadcastReceiverNewSms.iml" filepath="$PROJECT_DIR$/broadcastReceiverNewSms/broadcastReceiverNewSms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastReceiversTest/broadcastReceiversTest.iml" filepath="$PROJECT_DIR$/broadcastReceiversTest/broadcastReceiversTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast_alarmmanager_sample/broadcast_alarmmanager_sample.iml" filepath="$PROJECT_DIR$/broadcast_alarmmanager_sample/broadcast_alarmmanager_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera22/camera22.iml" filepath="$PROJECT_DIR$/camera22/camera22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentProviderEmail/contentProviderEmail.iml" filepath="$PROJECT_DIR$/contentProviderEmail/contentProviderEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customableseekbar/customableseekbar.iml" filepath="$PROJECT_DIR$/customableseekbar/customableseekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customableskbar/customableskbar.iml" filepath="$PROJECT_DIR$/customableskbar/customableskbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebaseanalytics/firebaseanalytics.iml" filepath="$PROJECT_DIR$/firebaseanalytics/firebaseanalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecyclerwithradiobutton/myrecyclerwithradiobutton.iml" filepath="$PROJECT_DIR$/myrecyclerwithradiobutton/myrecyclerwithradiobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoneContact_Demo/phoneContact_Demo.iml" filepath="$PROJECT_DIR$/phoneContact_Demo/phoneContact_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerwithradiobutton/recyclerwithradiobutton.iml" filepath="$PROJECT_DIR$/recyclerwithradiobutton/recyclerwithradiobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplegoogleanalytics/samplegoogleanalytics.iml" filepath="$PROJECT_DIR$/samplegoogleanalytics/samplegoogleanalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samplepushnotification/samplepushnotification.iml" filepath="$PROJECT_DIR$/samplepushnotification/samplepushnotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekBar/seekBar.iml" filepath="$PROJECT_DIR$/seekBar/seekBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareable/shareable.iml" filepath="$PROJECT_DIR$/shareable/shareable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slideupanimation/slideupanimation.iml" filepath="$PROJECT_DIR$/slideupanimation/slideupanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streammusic/streammusic.iml" filepath="$PROJECT_DIR$/streammusic/streammusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timedTextTest/timedTextTest.iml" filepath="$PROJECT_DIR$/timedTextTest/timedTextTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewOverlayTest/viewOverlayTest.iml" filepath="$PROJECT_DIR$/viewOverlayTest/viewOverlayTest.iml" />
+    </modules>
+  </component>
+</project>

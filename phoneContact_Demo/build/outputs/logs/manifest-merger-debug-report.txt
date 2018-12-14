@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/innobot-linux-7/.android/build-cache/eb765596b80856b07a59d074a722ff2d3a7415ad/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/innobot-linux-7/.android/build-cache/9517580464911202d3f9f9ca1e7681c37580e281/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+		INJECTED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:10:22-69
+application
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:12:5-26:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/innobot-linux-7/.android/build-cache/eb765596b80856b07a59d074a722ff2d3a7415ad/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/innobot-linux-7/.android/build-cache/9517580464911202d3f9f9ca1e7681c37580e281/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:16:9-40
+activity#com.phonecontact_demo.MainActivity
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:18:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/src/main/AndroidManifest.xml:23:27-74

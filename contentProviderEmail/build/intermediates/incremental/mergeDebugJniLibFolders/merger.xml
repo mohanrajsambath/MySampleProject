@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/debug/jniLibs"/></dataSet></merger>

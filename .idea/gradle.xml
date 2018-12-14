@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MusicPlayer" />
+            <option value="$PROJECT_DIR$/VideoTrimmer" />
+            <option value="$PROJECT_DIR$/androidBuildingMusicPlayer" />
+            <option value="$PROJECT_DIR$/androidCameraAPI" />
+            <option value="$PROJECT_DIR$/androidSurfaceviewExample" />
+            <option value="$PROJECT_DIR$/androidVideoCaptureExample" />
+            <option value="$PROJECT_DIR$/animationtransition" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcastReceiverNewSms" />
+            <option value="$PROJECT_DIR$/broadcastReceiversTest" />
+            <option value="$PROJECT_DIR$/broadcast_alarmmanager_sample" />
+            <option value="$PROJECT_DIR$/camera22" />
+            <option value="$PROJECT_DIR$/contentProviderEmail" />
+            <option value="$PROJECT_DIR$/customableseekbar" />
+            <option value="$PROJECT_DIR$/customableskbar" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/firebaseanalytics" />
+            <option value="$PROJECT_DIR$/myrecyclerwithradiobutton" />
+            <option value="$PROJECT_DIR$/phoneContact_Demo" />
+            <option value="$PROJECT_DIR$/recyclerwithradiobutton" />
+            <option value="$PROJECT_DIR$/samplegoogleanalytics" />
+            <option value="$PROJECT_DIR$/samplepushnotification" />
+            <option value="$PROJECT_DIR$/search" />
+            <option value="$PROJECT_DIR$/seekBar" />
+            <option value="$PROJECT_DIR$/shareable" />
+            <option value="$PROJECT_DIR$/slideupanimation" />
+            <option value="$PROJECT_DIR$/streammusic" />
+            <option value="$PROJECT_DIR$/timedTextTest" />
+            <option value="$PROJECT_DIR$/viewOverlayTest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

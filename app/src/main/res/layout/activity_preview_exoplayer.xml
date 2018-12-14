@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <RelativeLayout
+        android:id="@+id/rL_viewVideo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+            android:id="@+id/videoview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:controller_layout_id="@layout/exomediacontrollernoseek">
+
+        </com.google.android.exoplayer2.ui.SimpleExoPlayerView>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtV_fileStatus"
+            android:layout_centerInParent="true"
+            android:text="Checking Video in External Storage"
+            android:textColor="#fff"
+            android:textSize="15dp"
+            >
+            </TextView>
+    </RelativeLayout>
+
+</RelativeLayout>

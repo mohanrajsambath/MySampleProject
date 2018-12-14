@@ -1,0 +1,1252 @@
+[
+    {
+        "outputFile": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/89398a5c2bcf4293da473df452cbe9c1e7239947/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 68,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 62,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 62,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 88,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 70,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 70,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 57,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 57,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 72,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 72,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 73,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 73,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 69,
+                    "endOffset": 4861
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 7725,
+                        "endColumn": 69,
+                        "endOffset": 7790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4866,
+                    "endColumn": 67,
+                    "endOffset": 4929
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 7795,
+                        "endColumn": 67,
+                        "endOffset": 7858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4934,
+                    "endColumn": 71,
+                    "endOffset": 5001
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 7863,
+                        "endColumn": 71,
+                        "endOffset": 7930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5006,
+                    "endColumn": 69,
+                    "endOffset": 5071
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 7935,
+                        "endColumn": 69,
+                        "endOffset": 8000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5076,
+                    "endColumn": 60,
+                    "endOffset": 5132
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 8005,
+                        "endColumn": 60,
+                        "endOffset": 8061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5137,
+                    "endColumn": 73,
+                    "endOffset": 5206
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 8066,
+                        "endColumn": 73,
+                        "endOffset": 8135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5211,
+                    "endColumn": 72,
+                    "endOffset": 5279
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 8140,
+                        "endColumn": 72,
+                        "endOffset": 8208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5284,
+                    "endColumn": 60,
+                    "endOffset": 5340
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 8213,
+                        "endColumn": 60,
+                        "endOffset": 8269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5345,
+                    "endColumn": 60,
+                    "endOffset": 5401
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 8274,
+                        "endColumn": 60,
+                        "endOffset": 8330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5406,
+                    "endColumn": 61,
+                    "endOffset": 5463
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 8335,
+                        "endColumn": 61,
+                        "endOffset": 8392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5468,
+                    "endColumn": 63,
+                    "endOffset": 5527
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 8397,
+                        "endColumn": 63,
+                        "endOffset": 8456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5532,
+                    "endColumn": 61,
+                    "endOffset": 5589
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 8461,
+                        "endColumn": 61,
+                        "endOffset": 8518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5594,
+                    "endColumn": 60,
+                    "endOffset": 5650
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 8523,
+                        "endColumn": 60,
+                        "endOffset": 8579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5655,
+                    "endColumn": 67,
+                    "endOffset": 5718
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 8584,
+                        "endColumn": 67,
+                        "endOffset": 8647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5723,
+                    "endColumn": 99,
+                    "endOffset": 5818
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 8652,
+                        "endColumn": 99,
+                        "endOffset": 8747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5823,
+                    "endColumn": 59,
+                    "endOffset": 5878
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 8752,
+                        "endColumn": 59,
+                        "endOffset": 8807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5883,
+                    "endColumn": 65,
+                    "endOffset": 5944
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 8812,
+                        "endColumn": 65,
+                        "endOffset": 8873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5949,
+                    "endColumn": 72,
+                    "endOffset": 6017
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 8878,
+                        "endColumn": 72,
+                        "endOffset": 8946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6022,
+                    "endColumn": 68,
+                    "endOffset": 6086
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 8951,
+                        "endColumn": 68,
+                        "endOffset": 9015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 6091,
+                    "endColumn": 56,
+                    "endOffset": 6143
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 9020,
+                        "endColumn": 56,
+                        "endOffset": 9072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 6148,
+                    "endColumn": 51,
+                    "endOffset": 6195
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 9077,
+                        "endColumn": 51,
+                        "endOffset": 9124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 6200,
+                    "endColumn": 61,
+                    "endOffset": 6257
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 9129,
+                        "endColumn": 61,
+                        "endOffset": 9186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6262,
+                    "endColumn": 52,
+                    "endOffset": 6310
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 52,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 6315,
+                    "endColumn": 52,
+                    "endOffset": 6363
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 52,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 6368,
+                    "endColumn": 52,
+                    "endOffset": 6416
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 52,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6421,
+                    "endColumn": 52,
+                    "endOffset": 6469
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 52,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6474,
+                    "endColumn": 71,
+                    "endOffset": 6541
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 9191,
+                        "endColumn": 71,
+                        "endOffset": 9258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6546,
+                    "endColumn": 75,
+                    "endOffset": 6617
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 9263,
+                        "endColumn": 75,
+                        "endOffset": 9334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6622,
+                    "endColumn": 34,
+                    "endOffset": 6652
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 9339,
+                        "endColumn": 34,
+                        "endOffset": 9369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6657,
+                    "endColumn": 34,
+                    "endOffset": 6687
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 9374,
+                        "endColumn": 34,
+                        "endOffset": 9404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6692,
+                    "endColumn": 49,
+                    "endOffset": 6737
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 9409,
+                        "endColumn": 49,
+                        "endOffset": 9454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6742,
+                    "endColumn": 60,
+                    "endOffset": 6798
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 9459,
+                        "endColumn": 60,
+                        "endOffset": 9515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6803,
+                    "endColumn": 56,
+                    "endOffset": 6855
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 9520,
+                        "endColumn": 56,
+                        "endOffset": 9572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6860,
+                    "endColumn": 33,
+                    "endOffset": 6889
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 9577,
+                        "endColumn": 33,
+                        "endOffset": 9606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6894,
+                    "endColumn": 34,
+                    "endOffset": 6924
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 9611,
+                        "endColumn": 34,
+                        "endOffset": 9641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6929,
+                    "endColumn": 34,
+                    "endOffset": 6959
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 9646,
+                        "endColumn": 34,
+                        "endOffset": 9676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6964,
+                    "endColumn": 59,
+                    "endOffset": 7019
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 59,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 7024,
+                    "endColumn": 69,
+                    "endOffset": 7089
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 9681,
+                        "endColumn": 69,
+                        "endOffset": 9746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 7094,
+                    "endColumn": 57,
+                    "endOffset": 7147
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 57,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 7152,
+                    "endColumn": 52,
+                    "endOffset": 7200
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7205,
+                    "endColumn": 50,
+                    "endOffset": 7251
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 50,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 7256,
+                    "endColumn": 70,
+                    "endOffset": 7322
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 9751,
+                        "endColumn": 70,
+                        "endOffset": 9817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 7327,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 7613
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7618,
+                    "endLine": 140,
+                    "endColumn": 12,
+                    "endOffset": 7773
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7778,
+                    "endColumn": 116,
+                    "endOffset": 7890
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 9822,
+                        "endColumn": 116,
+                        "endOffset": 9934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7895,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 8091
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 9939,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 10135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 8096,
+                    "endColumn": 65,
+                    "endOffset": 8157
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 65,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 8162,
+                    "endColumn": 109,
+                    "endOffset": 8267
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 10140,
+                        "endColumn": 109,
+                        "endOffset": 10245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 8272,
+                    "endColumn": 121,
+                    "endOffset": 8389
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 121,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 8394,
+                    "endColumn": 60,
+                    "endOffset": 8450
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 60,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 8455,
+                    "endLine": 153,
+                    "endColumn": 12,
+                    "endOffset": 8651
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 10250,
+                        "endLine": 175,
+                        "endColumn": 12,
+                        "endOffset": 10446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8656,
+                    "endColumn": 65,
+                    "endOffset": 8717
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 65,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8722,
+                    "endColumn": 128,
+                    "endOffset": 8846
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 10451,
+                        "endColumn": 128,
+                        "endOffset": 10575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8851,
+                    "endColumn": 66,
+                    "endOffset": 8913
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/3cd78761abe5a2f5050d58f8a1bbdd36ac14d287/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 66,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8918,
+                    "endColumn": 71,
+                    "endOffset": 8985
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 10580,
+                        "endColumn": 71,
+                        "endOffset": 10647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8990,
+                    "endColumn": 66,
+                    "endOffset": 9052
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 10652,
+                        "endColumn": 66,
+                        "endOffset": 10714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 9057,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 9197
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/.android/build-cache/89398a5c2bcf4293da473df452cbe9c1e7239947/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 5935,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 6075
+                    }
+                }
+            }
+        ]
+    }
+]

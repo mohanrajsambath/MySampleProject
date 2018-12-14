@@ -1,0 +1,7 @@
+#Fri Sep 28 16:42:22 IST 2018
+base.0=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6cd9e13c522455ff0ce1e58d702d00af179e954
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0cc8f13e3750c15e52962b3c17aa302b0a627fa0/classes.dex
+base.1=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0cc8f13e3750c15e52962b3c17aa302b0a627fa0
+file.0=/home/innobot-linux-7/AndroidStudioProjects/MyApplication/phoneContact_Demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6cd9e13c522455ff0ce1e58d702d00af179e954/classes.dex

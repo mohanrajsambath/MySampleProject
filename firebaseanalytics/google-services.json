@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "650559398899",
+    "firebase_url": "https://fir-analytics-cc9bd.firebaseio.com",
+    "project_id": "fir-analytics-cc9bd",
+    "storage_bucket": "fir-analytics-cc9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650559398899:android:688ea247ef8277ac",
+        "android_client_info": {
+          "package_name": "com.innobot.firebaseanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650559398899-4ciah36od3pv4ostjh9i5k5fql688lih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0Kuyd5DaDmqlU984MaBJPQb5OLwoe4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650559398899:android:268e36c675979e4d",
+        "android_client_info": {
+          "package_name": "com.innobot.firebaseanalytics.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650559398899-4ciah36od3pv4ostjh9i5k5fql688lih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0Kuyd5DaDmqlU984MaBJPQb5OLwoe4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650559398899:android:df80af1d51deb906",
+        "android_client_info": {
+          "package_name": "com.innobot.firebaseanalytics.rc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650559398899-4ciah36od3pv4ostjh9i5k5fql688lih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0Kuyd5DaDmqlU984MaBJPQb5OLwoe4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650559398899:android:a4488d26fd7bc132",
+        "android_client_info": {
+          "package_name": "com.innobot.firebaseanalytics.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650559398899-4ciah36od3pv4ostjh9i5k5fql688lih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0Kuyd5DaDmqlU984MaBJPQb5OLwoe4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

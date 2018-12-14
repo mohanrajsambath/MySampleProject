@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shareable</string>
+    <string name="share_email_native">http://www.cyranosystems.com</string>
+    <string name="share_email_subject">Program Link</string>
+    <string name="share_chooser_text">Share</string>
+    <string name="share_twitter">twitter</string>
+    <string name="share_facebook">facebook</string>
+    <string name="share_sms">Shareable</string>
+    <string name="share_whatsapp">whatsapp</string>
+    <string name="share_linkedin">linkedin</string>
+    <string name="share_email_gmail">http://www.cyranosystems.com</string>
+    <string name="share_link">
+https://staging2.cyranosystems.com/msg/#/guestPlayProgram/000181d4-2b11-8702-0035-5e62d66389fa
+    </string>
+
+
+    <string name="share_imageurl">https://s3.amazonaws.com/cyrano-pub/user/8c2b7cd4-9800-8265-c85f-b1ed19d2804e.jpeg </string>
+</resources>

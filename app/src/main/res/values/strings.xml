@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="Menu_serach">Menu</string>
+    <string name="action_setting">Action</string>
+
+</resources>

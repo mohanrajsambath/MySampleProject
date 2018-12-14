@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/build/intermediates/res/merged/debug/raw/video.mp4",
+        "source": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/src/main/res/raw/video.mp4"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/build/intermediates/res/merged/debug/raw/example.m3u8",
+        "source": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/src/main/res/raw/example.m3u8"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/build/intermediates/res/merged/debug/raw/sub.srt",
+        "source": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/timedTextTest/src/main/res/raw/sub.srt"
+    }
+]

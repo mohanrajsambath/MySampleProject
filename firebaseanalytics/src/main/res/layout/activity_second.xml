@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <!--<com.warkiz.widget.IndicatorSeekBar-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="17dp"-->
+    <!--app:isb_indicator_stay="true"-->
+    <!--app:isb_progress="68"-->
+    <!--app:isb_seek_bar_type="discrete_ticks_texts"-->
+    <!--app:isb_show_indicator="true"-->
+    <!--app:isb_tick_drawable="@drawable/line"-->
+    <!--app:isb_tick_num="7"-->
+    <!--tools:ignore="MissingConstraints"-->
+    <!--tools:layout_editor_absoluteX="16dp"-->
+    <!--tools:layout_editor_absoluteY="114dp" />-->
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:id="@+id/txtView_video"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/buttoncorner_channel_pressed"
+            android:text="Video"
+            android:textColor="@color/colorAccent"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/txtView_audio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/txtView_video"
+            android:text="Audio"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/txtView_library"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/txtView_audio"
+            android:text="Library"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/txtView_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@+id/txtView_library"
+            android:text="Link"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/contentProviderEmail/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/innobot-linux-7/.android/build-cache/665ca16affdd563546606381e3bba406acff26f1/output/res/drawable/notification_bg.xml"
+    }
+]

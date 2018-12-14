@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 60,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 52,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 52,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 50,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/home/innobot-linux-7/AndroidStudioProjects/MyApplication/broadcastReceiverNewSms/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
